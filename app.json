@@ -1,0 +1,14 @@
+{
+  "name": "Sample of a binary in repo app",
+  "success_url": "/",
+  "formaation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "http://github.com/kr/heroku-buildpack-inline.git"
+    }
+  ]
+}
